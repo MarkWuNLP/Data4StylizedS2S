@@ -2,3 +2,4 @@ Required:
      python >= 3.5
      tensorflow >= 1.5.0
 
+please read the train_ch2en.sh to learn how to run the code. It is good to use other open source tool, such as OpenNMT and FairSeq, to train the model
